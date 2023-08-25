@@ -1,4 +1,5 @@
-👋![giphy](https://github.com/Alexnerotd/Alexnerotd/assets/90206029/e1e3fac5-415e-4867-b697-8210a39cce43)
+
+![giphy](https://github.com/Alexnerotd/Alexnerotd/assets/90206029/fca2ef09-c805-487b-9078-39da09d4f58e)
 
 ### Hi there 
 
