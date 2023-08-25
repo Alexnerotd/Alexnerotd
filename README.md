@@ -4,11 +4,21 @@
   <h3 align="center"> A passionate back-end developer with a bit of front-end (full-stack) from Canada.</h3>
 
 
-  <div id='badges' align='center'>
-<span class="label label-default">Default Label</span>
-<span class="label label-primary">Primary Label</span>
-<span class="label label-success">Success Label</span>
-<span class="label label-info">Info Label</span>
-<span class="label label-warning">Warning Label</span>
-<span class="label label-danger">Danger Label</span>
+## Encuéntrame en la web 🌍
+
+[![Twitter](https://img.shields.io/badge/Twitter-%23FF00FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ale_x_nero)
+[![Facebook](https://img.shields.io/badge/Facebook-%230069FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ale_x_nero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230069FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale_x_nero)
+
+## Mis proyectos principales 🚀
+
+- [Proyecto 1](https://github.com/tuusuario/proyecto1): Descripción breve del proyecto 1.
+- [Proyecto 2](https://github.com/tuusuario/proyecto2): Descripción breve del proyecto 2.
+- [Proyecto 3](https://github.com/tuusuario/proyecto3): Descripción breve del proyecto 3.
+
+## Mis estadísticas de GitHub 📈
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+
+¡Gracias por visitar mi perfil! No dudes en contactarme en [tu@email.com] si tienes alguna pregunta o colaboración en mente. 😊
 
