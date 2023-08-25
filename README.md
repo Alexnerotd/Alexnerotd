@@ -28,7 +28,7 @@
 
 ## My GitHub Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out to me at [jesalemalo@gmail.com] if you have any questions or collaboration in mind. 😊
 
