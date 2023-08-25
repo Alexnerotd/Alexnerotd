@@ -7,8 +7,8 @@
 ## Find me on the web 🌍
 
 [![Twitter](https://img.shields.io/badge/Twitter-%23FF00FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ale_x_nero)
-[![Facebook](https://img.shields.io/badge/Facebook-%230069FF?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/ale_x_nero](https://www.facebook.com/profile.php?id=100081747791567))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230069FF?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ale_x_nero](https://www.linkedin.com/in/jesus-alejandro-532aa126b/))
+[![Facebook](https://img.shields.io/badge/Facebook-%230069FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081747791567))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230069FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-alejandro-532aa126b/))
 
 ## My top projects 🚀
 
