@@ -1,10 +1,11 @@
-<div id="header" align="center">
+![download](https://github.com/Alexnerotd/Alexnerotd/assets/90206029/345577b7-ef88-476e-909c-e93bcc076602)<div id="header" align="center">
   <img src="https://github.com/Alexnerotd/Alexnerotd/assets/90206029/e1e3fac5-415e-4867-b697-8210a39cce43)" width= "200"/>
   <h1 align="center">Hi 👋, I'm AlexNero</h1>
   <h3 align="center"> A passionate back-end developer with a bit of front-end (full-stack) from Canada.</h3>
 
 
-<!--
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="20" role="img" aria-label="TikTok: alex x nero"><title>TikTok: alex x nero</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="118" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="47" height="20" fill="#555"/><rect x="47" width="71" height="20" fill="#007ec6"/><rect width="118" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="245" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">TikTok</text><text x="245" y="140" transform="scale(.1)" fill="#fff" textLength="370">TikTok</text><text aria-hidden="true" x="815" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="610">alex x nero</text><text x="815" y="140" transform="scale(.1)" fill="#fff" textLength="610">alex x nero</text></g></svg>wnload.svg…]()
+
 **Alexnerotd/Alexnerotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
