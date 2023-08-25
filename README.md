@@ -1,4 +1,6 @@
-### Hi there 👋
+👋![giphy](https://github.com/Alexnerotd/Alexnerotd/assets/90206029/e1e3fac5-415e-4867-b697-8210a39cce43)
+
+### Hi there 
 
 <!--
 **Alexnerotd/Alexnerotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
